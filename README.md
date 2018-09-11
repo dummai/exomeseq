@@ -43,7 +43,7 @@ The package consists of python scripts that will
     $ cp <target_regions>.bed .
     
     4. Download the pipeline code from GitHub:
-    $ git clone https://github.com/si-medbif/exomeseq.git
+    $ git clone https://github.com/dummai/exomeseq.git
 
 #### The user can at this step choose one of two paths:
     
